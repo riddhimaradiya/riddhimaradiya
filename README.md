@@ -45,8 +45,8 @@ Passionate about continuous learning and problem-solving
 ### Smart Courier Management System
 Multi-user backend system for courier operations including order tracking, delivery assignment, stock monitoring, and automated notifications.
 
-### JWT Authentication API
-Stateless authentication system implementing login, token generation, and request validation using Spring Security and JWT.
+### Bank Management System
+Backend REST API built using Java and Spring Boot for managing books with CRUD operations and MySQL database integration..
 
 ### Task Management System API
 Backend system for managing tasks with status filtering, structured service layer, and database integration.
