@@ -1,19 +1,85 @@
-# 💫 Hi 👋, I'm Riddhi mardiya
+# 👋 Hi, I'm Ridhu Mardiya
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Riddhi-Mardiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riddhimardiya@gmail.com) 
+💻 Aspiring Backend Developer | Java | Spring Boot | REST APIs | MySQL
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riddhimaradiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riddhimaradiya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhimaradiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=riddhimaradiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Working with Java & Spring Boot to build RESTful APIs
+
+Familiar with MySQL and JWT Authentication
+
+Learning scalable backend systems and clean coding practices
+
+Passionate about continuous learning and problem-solving
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riddhimaradiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Core Skills
+
+**Programming**
+- Java
+- OOP
+
+**Backend Development**
+- Spring Boot
+- REST API design
+- JWT Authentication (Basic)
+
+**Database**
+- MySQL
+- Database design basics
+
+**Tools**
+- Git
+- GitHub
+- Maven
+- Postman
+
+**Problem Solving**
+- Data Structures & Algorithms (DSA)
+
+---
+
+## Projects
+
+### Smart Courier Management System
+Multi-user backend system for courier operations including order tracking, delivery assignment, stock monitoring, and automated notifications.
+
+### JWT Authentication API
+Stateless authentication system implementing login, token generation, and request validation using Spring Security and JWT.
+
+### Task Management System API
+Backend system for managing tasks with status filtering, structured service layer, and database integration.
+
+### URL Shortener Service
+REST API that generates short links and redirects users to original URLs efficiently.
+
+### Book Management System
+CRUD-based backend application for managing book records using Java and MySQL.
+
+### Sale Campaign Management
+Backend system to manage campaign-related data and operations.
+
+---
+
+## Current Learning Focus
+
+- Spring Security concepts
+- Backend architecture best practices
+- Improving DSA problem solving
+- Writing cleaner service-layer logic
+
+---
+
+## Tech Stack
+
+Java | Spring Boot | MySQL | REST APIs | OOP
+
+---
+
+## Contact
+
+Email: riddhimardiya@gmail.com
+LinkedIn: www.linkedin.com/in/riddhi-mardiya-212a52344
+
+
