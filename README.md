@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ridhu Mardiya
+# 👋 Hi, I'm Riddhi Maradiya
 
 💻 Aspiring Backend Developer | Java | Spring Boot | REST APIs | MySQL
 
