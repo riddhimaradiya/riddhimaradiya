@@ -27,15 +27,15 @@
 
 <p align="left">
 <a href="https://github.com/riddhimaradiya" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
+<img src="https://skillicons.dev/icons?i=github" height="25" />
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin-url" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="25" />
 </a>
 
 <a href="mailto:riddhimardiya@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+<img src="https://skillicons.dev/icons?i=gmail" height="25" />
 </a>
 </p>
 
@@ -122,14 +122,6 @@
 </td>
 </tr>
 </table>
-
----
-
-# Achievements
-
- Built Multiple Backend Projects using Spring Boot  
- Practicing DSA & OOP Concepts using Java  
- Learning Advanced Backend Concepts
 
 ---
 
