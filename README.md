@@ -27,7 +27,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/riddhimaradiya" target="blank">
@@ -45,24 +45,24 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
+#### 👨‍💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-### 🚀 Backend Development
+#### 🚀 Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-### 🗄️ Database
+#### 🗄️ Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ⚙️ Tools & Platforms
+#### ⚙️ Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
@@ -126,22 +126,6 @@
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riddhimaradiya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhimaradiya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhimaradiya&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
