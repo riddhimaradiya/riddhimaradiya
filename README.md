@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Riddhi Mardiya
+# Hi , I'm Riddhi Mardiya
 
 ### Java Backend Developer | Spring Boot Developer
 
@@ -8,24 +8,22 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+## About Me
 
-## 👨‍💻 About Me
-
-- 🎓 BCA Student passionate about Backend Development
-- 🌱 Currently learning:
+-  BCA Student passionate about Backend Development
+-  Currently learning:
   - Spring Security
   - JWT Authentication
   - Microservices
   - Multithreading
-- 💻 Skilled in Java, Spring Boot, MySQL & REST APIs
-- 🚀 Building real-world backend projects
-- 📚 Practicing Data Structures & Algorithms using Java
-- 🎯 Goal: Become a Professional Backend Engineer
+-  Skilled in Java, Spring Boot, MySQL & REST APIs
+-  Building real-world backend projects
+-  Practicing Data Structures & Algorithms using Java
+-  Goal: Become a Professional Backend Engineer
 
 ---
 
-## 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
 <a href="https://github.com/riddhimaradiya" target="blank">
@@ -43,57 +41,57 @@
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-#### 👨‍💻 Languages
+######  Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-#### 🚀 Backend Development
+######  Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-#### 🗄️ Database
+######  Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-#### ⚙️ Tools & Platforms
+######  Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 📌 Employee Leave Management System
+#### 📌 Employee Leave Management System
 
 🔹 Role-based Leave Management APIs  
 🔹 Leave Request & Approval Workflow  
 🔹 Spring Security & JWT Authentication  
 🔹 Built using Spring Boot & MySQL  
 
-🔗 [View Project](https://github.com/riddhimaradiya/Leave-Management-system)
+ [View Project](https://github.com/riddhimaradiya/Leave-Management-system)
 
 </td>
 
 <td width="50%">
 
-## 📌 Expense Tracker API
+#### 📌 Expense Tracker API
 
 🔹 Expense & Budget Management APIs  
 🔹 Category-wise Expense Tracking  
 🔹 Budget Alert System  
 🔹 CRUD Operations with Spring Boot  
 
-🔗 [View Project](https://github.com/riddhimaradiya/Expense_Tracker)
+ [View Project](https://github.com/riddhimaradiya/Expense_Tracker)
 
 </td>
 </tr>
@@ -101,25 +99,25 @@
 <tr>
 <td width="50%">
 
-## 📌 Quiz Application
+#### 📌 Quiz Application
 
 🔹 Quiz & Question Management APIs  
 🔹 Score Calculation System  
 🔹 REST API Development using Spring Boot  
 
-🔗 [View Project](https://github.com/riddhimaradiya/Quizapp)
+ [View Project](https://github.com/riddhimaradiya/Quizapp)
 
 </td>
 
 <td width="50%">
 
-## 📌 Inventory Management System
+####  Inventory Management System
 
 🔹 Product & Stock Management APIs  
 🔹 Inventory Tracking Features  
 🔹 Backend developed using Java & MySQL  
 
-🔗 [View Project](https://github.com/riddhimaradiya/Inventory-system)
+[View Project](https://github.com/riddhimaradiya/Inventory-system)
 
 </td>
 </tr>
@@ -127,14 +125,14 @@
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-🏅 Built Multiple Backend Projects using Spring Boot  
-🏅 Practicing DSA & OOP Concepts using Java  
-🏅 Learning Advanced Backend Concepts
+ Built Multiple Backend Projects using Spring Boot  
+ Practicing DSA & OOP Concepts using Java  
+ Learning Advanced Backend Concepts
 
 ---
 
-### ⭐ Thanks for Visiting My Profile ⭐
+###  Thanks for Visiting My Profile 
 
 </div>
