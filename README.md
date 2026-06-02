@@ -1,65 +1,85 @@
-# 👋 Hi, I'm Riddhi Maradiya
+<h1 align="center">Hi 👋, I'm Ridhu Mardiya</h1>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
 
-💻 Aspiring Backend Developer | Java | Spring Boot | REST APIs | MySQL
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 About Me
-
-Working with Java & Spring Boot to build RESTful APIs
-
-Familiar with MySQL and JWT Authentication
-
-Learning scalable backend systems and clean coding practices
-
-Passionate about continuous learning and problem-solving
+- 💻 Focused on **Java Backend Development**
+- 🚀 Building projects using **Spring Boot, MySQL, REST APIs**
+- 🌱 Currently learning **Spring Security, JWT Authentication, Microservices**
+- 📚 Solving DSA problems using **Java**
+- 🎯 Goal: Become a skilled **Backend Engineer**
+- 📫 Reach me at: **riddhimardiya@gmail.com**
 
 ---
 
-## Core Skills
+## 🌐 Connect With Me
 
-**Programming**
-- Java
-- OOP
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
+</a>
 
-**Backend Development**
-- Spring Boot
-- REST API design
-- JWT Authentication (Basic)
-
-**Database**
-- MySQL
-- Database design basics
-
-**Tools**
-- Git
-- GitHub
-- Maven
-- Postman
-
-**Problem Solving**
-- Data Structures & Algorithms (DSA)
-
----
----
-
-## Current Learning Focus
-
-- Spring Security concepts
-- Backend architecture best practices
-- Improving DSA problem solving
-- Writing cleaner service-layer logic
+<a href="https://github.com/riddhimaradiya" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
+</a>
+</p>
 
 ---
 
-## Tech Stack
+# 💻 Tech Stack
 
-Java | Spring Boot | MySQL | REST APIs | OOP
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,github,postman,vscode,idea" />
+</p>
 
 ---
 
-## Contact
+# 🚀 Projects
 
-Email: riddhimardiya@gmail.com
-LinkedIn: www.linkedin.com/in/riddhi-mardiya-212a52344
+## 📌 Employee Leave Management System
+🔹 Developed REST APIs for leave requests, approvals, and employee management  
+🔹 Implemented role-based authentication and leave tracking  
+🔹 Tech Stack: Java, Spring Boot, JPA, MySQL  
 
-⭐ Always learning and building to become a better backend developer
+## 📌 Personal Finance & Expense Tracker
+🔹 Built APIs for expense tracking and monthly budget management  
+🔹 Added category-wise filtering and budget alerts  
+🔹 Tech Stack: Java, Spring Boot, MySQL  
 
+## 📌 Quiz Application
+🔹 Created quiz APIs with scoring and question management  
+🔹 Implemented CRUD operations for quizzes and questions  
+🔹 Tech Stack: Spring Boot, MySQL  
+
+## 📌 Inventory Management System
+🔹 Developed inventory tracking system with product management  
+🔹 Added stock update and CRUD functionalities  
+🔹 Tech Stack: Java, Spring Boot, MySQL  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riddhimaradiya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhimaradiya&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhimaradiya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+- ✅ Built multiple backend projects using Spring Boot
+- ✅ Learned REST API development and database integration
+- ✅ Practicing Data Structures & Algorithms using Java
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
