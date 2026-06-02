@@ -2,7 +2,7 @@
 
 # Hi , I'm Riddhi Mardiya
 
-### Java Backend Developer | Spring Boot Developer
+### Aspiring Backend Developer | Java | Spring Boot | REST APIs | MySQL
 
 </div>
 
@@ -19,7 +19,7 @@
 -  Skilled in Java, Spring Boot, MySQL & REST APIs
 -  Building real-world backend projects
 -  Practicing Data Structures & Algorithms using Java
--  Goal: Become a Professional Backend Engineer
+-  Goal: Become a Professional Backend Developer
 
 ---
 
@@ -27,40 +27,16 @@
 
 <p align="left">
 <a href="https://github.com/riddhimaradiya" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="25" />
+<img src="https://skillicons.dev/icons?i=github" height="30" />
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin-url" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="25" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 
 <a href="mailto:riddhimardiya@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="25" />
+<img src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-######  Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-######  Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-######  Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-######  Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
 
 ---
