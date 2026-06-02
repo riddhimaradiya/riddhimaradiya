@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ridhu Mardiya</h1>
+<h1 align="center">Hi 👋, I'm Riddhi Mardiya</h1>
 <h3 align="center">Java Backend Developer | Spring Boot Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💻 Focused on **Java Backend Development**
 - 🚀 Building projects using **Spring Boot, MySQL, REST APIs**
@@ -58,21 +57,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riddhimaradiya&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhimaradiya&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhimaradiya&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🏆 Achievements
 
