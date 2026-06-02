@@ -10,17 +10,24 @@
 
 ## About Me
 
--  BCA Student passionate about Backend Development
--  Currently learning:
-  - Spring Security
-  - JWT Authentication
-  - Microservices
-  - Multithreading
--  Skilled in Java, Spring Boot, MySQL & REST APIs
--  Building real-world backend projects
--  Practicing Data Structures & Algorithms using Java
--  Goal: Become a Professional Backend Developer
+- Building backend applications using Java and Spring Boot
+- Developing RESTful APIs with clean architecture principles
+- Working with MySQL for database management
+- Exploring JWT Authentication and Spring Security
+- Focused on scalable backend development and clean coding practices
+- Continuously improving problem-solving and software development skills
 
+---
+
+## Technical Skills
+
+| Category | Skills |
+|-----------|---------|
+| Programming | Java, OOP |
+| Backend Development | Spring Boot, REST API Design, JWT Authentication (Basic) |
+| Database | MySQL, Database Design Basics |
+| Tools | Git, GitHub, Maven, Postman |
+| Problem Solving | Data Structures & Algorithms (DSA) |
 ---
 
 ###  Connect With Me
